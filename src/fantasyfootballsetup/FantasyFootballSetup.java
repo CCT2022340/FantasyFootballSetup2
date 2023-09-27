@@ -50,7 +50,7 @@ public class FantasyFootballSetup {
             }
         }
 
-//        System.out.println("The first line is: "+ line);   
+         System.out.println("The first line is: "+ line);   
         
     }
     
